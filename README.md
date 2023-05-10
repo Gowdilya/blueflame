@@ -11,4 +11,4 @@ Rebuild
 eas build --profile development --platform ios
 
 ```
-View using expo on your Iphon
+View using expo on your Iphone
